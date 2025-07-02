@@ -1,0 +1,15 @@
+{"time":"2025-07-02T07:55:12.8563254+05:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Administrator\\OneDrive\\Desktop\\MLOPS_Time_Series\\wandb\\run-20250702_075512-hmmsffgz\\logs\\debug-core.log"}
+{"time":"2025-07-02T07:55:13.3550848+05:00","level":"INFO","msg":"stream: created new stream","id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:13.3555867+05:00","level":"INFO","msg":"stream: started","id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:13.3555911+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:13.3558198+05:00","level":"INFO","msg":"sender: started","stream_id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:13.3558198+05:00","level":"INFO","msg":"handler: started","stream_id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:13.8047512+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-02T07:55:16.460945+05:00","level":"INFO","msg":"stream: closing","id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:16.460945+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-02T07:55:16.4614588+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-02T07:55:17.503306+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-02T07:55:17.9107125+05:00","level":"INFO","msg":"handler: closed","stream_id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:17.9107125+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:17.9117129+05:00","level":"INFO","msg":"sender: closed","stream_id":"hmmsffgz"}
+{"time":"2025-07-02T07:55:17.9117129+05:00","level":"INFO","msg":"stream: closed","id":"hmmsffgz"}

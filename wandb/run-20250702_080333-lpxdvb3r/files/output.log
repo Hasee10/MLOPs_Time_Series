@@ -1,0 +1,3 @@
+✅ Flow completed — MSE: 1876673.55
+08:03:34.532 | [36mINFO[0m    | Task run 'train-c79' - Finished in state [32mCompleted[0m()
+08:03:34.879 | [36mINFO[0m    | Flow run[35m 'careful-mastiff'[0m - Finished in state [32mCompleted[0m()

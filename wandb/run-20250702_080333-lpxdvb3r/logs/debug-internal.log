@@ -1,0 +1,15 @@
+{"time":"2025-07-02T08:03:33.3034091+05:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Administrator\\OneDrive\\Desktop\\MLOPS_Time_Series\\wandb\\run-20250702_080333-lpxdvb3r\\logs\\debug-core.log"}
+{"time":"2025-07-02T08:03:33.8172425+05:00","level":"INFO","msg":"stream: created new stream","id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:33.8172425+05:00","level":"INFO","msg":"stream: started","id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:33.8172425+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:33.8172425+05:00","level":"INFO","msg":"handler: started","stream_id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:33.817761+05:00","level":"INFO","msg":"sender: started","stream_id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:34.1982271+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-02T08:03:36.8333247+05:00","level":"INFO","msg":"stream: closing","id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:36.8333247+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-02T08:03:36.8333247+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-02T08:03:38.0542359+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-02T08:03:38.4707777+05:00","level":"INFO","msg":"sender: closed","stream_id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:38.4707777+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:38.4707777+05:00","level":"INFO","msg":"handler: closed","stream_id":"lpxdvb3r"}
+{"time":"2025-07-02T08:03:38.4712994+05:00","level":"INFO","msg":"stream: closed","id":"lpxdvb3r"}
